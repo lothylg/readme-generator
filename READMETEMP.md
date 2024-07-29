@@ -6,9 +6,9 @@
 
 #Useage
 
-[Tests](#test)
+* [Tests](#test)
 
-#Tests
+## Tests
 #user criteria
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
