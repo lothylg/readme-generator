@@ -108,7 +108,7 @@ THEN I am taken to the corresponding section of the README
 
 
 
-## Last
+# Last
 #user criteria
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
