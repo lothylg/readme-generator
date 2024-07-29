@@ -7,7 +7,7 @@
 #Useage
 
 * [Tests](#test)
-* [last](last)
+* [last](#last)
 
 ## Tests
 #user criteria
